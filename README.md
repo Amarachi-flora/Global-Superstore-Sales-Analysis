@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Global_superstore_image.jpg" alt="Global Superstore Banner" width="100%">
+  <img src="Global_superstore_image.jpg" alt="Global Superstore Banner" width="100%">
 </p>
 
 
