@@ -156,3 +156,5 @@ This Power BI project transformed complex sales data into clear, actionable busi
 **Created by:** *AMARACHI*  
 **Capstone Project – Techrity Bootcamp (Data Analytics Track)**  
 [LinkedIn Profile](https://www.linkedin.com/in/amarachi-florence)
+
+
