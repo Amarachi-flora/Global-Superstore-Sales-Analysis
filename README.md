@@ -67,8 +67,10 @@ Global-Superstore-Sales-Analysis
 # Global Superstore Sales Analysis (Power BI Project)
 
 ### Dashboard 1 – Global Sales Overview
+
+
 <p align="center">
-  <img src="images/dashboard_1.jpg" alt="Dashboard 1 – Global Overview" width="80%">
+  <img src="Images/dashboard_1.jpg" alt="Dashboard 2 – Country & Subcategory Performance" width="80%">
 </p>
 
 **Key Visuals:**
