@@ -40,7 +40,7 @@ To draw actionable insights from the 2014 sales data and provide data-driven rec
 
 Global-Superstore-Sales-Analysis
 │── README.md
-├── Images
+├── images
   ├── dashboard_1.jpg
   ├── dashboard_2.jpg
   └── dashboard_3.jpg
@@ -70,7 +70,7 @@ Global-Superstore-Sales-Analysis
 
 
 <p align="center">
-  <img src="Images/dashboard_1.jpg" alt="Global Sales Overview" width="80%">
+  <img src="images/dashboard_1.jpg" alt="Global Sales Overview" width="80%">
 </p>
 
 
