@@ -70,8 +70,11 @@ Global-Superstore-Sales-Analysis
 
 
 <p align="center">
-  <img src="Images/dashboard_1.jpg" alt="Dashboard 2 – Country & Subcategory Performance" width="80%">
+  <img src="Images/dashboard_1.jpg" alt="Global Sales Overview" width="80%">
 </p>
+
+
+![Dashboard 1](images/dashboard_1.jpg)
 
 **Key Visuals:**
 - Map of Profit by Country  
