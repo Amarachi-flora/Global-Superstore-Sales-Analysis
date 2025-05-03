@@ -74,7 +74,7 @@ Global-Superstore-Sales-Analysis
 </p>
 
 
-![Dashboard 1](images/dashboard_1.jpg)
+
 
 **Key Visuals:**
 - Map of Profit by Country  
