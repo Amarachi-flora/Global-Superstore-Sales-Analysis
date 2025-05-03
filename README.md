@@ -86,7 +86,10 @@ Global-Superstore-Sales-Analysis
 - Evaluate the 15% average discount to ensure it's not impacting margins negatively.
 - Expand technology offerings and bundle top-performing tech items.
 
+
 ### Dashboard 2 – Country & Subcategory Performance
+
+
 <p align="center">
   <img src="Images/dashboard_2.jpg" alt="Dashboard 2 – Country & Subcategory Performance" width="80%">
 </p>
